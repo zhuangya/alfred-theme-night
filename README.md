@@ -2,6 +2,4 @@
 
 ![alfred-theme-night](.github/screenshot.png)
 
----
-
-[download](https://cdn.rawgit.com/zhuangya/alfred-theme-night/master/night.alfredappearance)
+<a style="text-align: center;" href="https://cdn.rawgit.com/zhuangya/alfred-theme-night/master/night.alfredappearance">[ download ]</a>
